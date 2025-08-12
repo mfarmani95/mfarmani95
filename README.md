@@ -14,7 +14,7 @@
 I’m a third-year Ph.D. candidate in Hydrology & Atmospheric Sciences (minor in Data Science) at the University of Arizona. I integrate **physical hydrology** with **machine learning** and **differentiable modeling** to improve predictions of soil moisture, evapotranspiration, recharge, and streamflow.
 
 **Recent highlights (2025):**  
-- **Soil moisture memory:** first-author study identifying key soil processes controlling memory (HESS 2025).  
+- **Soil moisture memory:** first-author study identifying key soil processes controlling memory **(HESS 2025)**.  
 - **Precipitation intensity → recharge/TWS:** coauthored **GRL 2025** showing strong impacts in Arizona drylands.  
 - **Product evaluation across temperatures:** coauthored **J. Hydrometeorology 2025** comparing IMERG V07/V06 vs. ERA5.  
 - **ET with physics-guided ML:** coauthored **J. Hydrology 2025** (DNN-enhanced Penman–Monteith).
@@ -68,10 +68,12 @@ I like bridging theory and practice—building tools that help answer real water
   M. Jawad, A. Behrangi, **M. A. Farmani**, Y. Qiu, H. Y. Sohi, A. Gupta, G.-Y. Niu. **Journal of Hydrology**, 133460 (2025). *(Article in press)*  
 - **Do land models miss key soil hydrological processes controlling soil moisture memory?**  
   **M. A. Farmani**, A. Behrangi, A. Gupta, A. Tavakoly, M. Geheran, G.-Y. Niu. **Hydrology and Earth System Sciences**, 29, 547–566 (2025). https://doi.org/10.5194/hess-29-547-2025
-- **Farmani, M. A.**, Tavakoly, A. A., Behrangi, A., *et al.* (2024). Improving Streamflow Predictions in the Arid Southwestern United States Through Understanding of Baseflow Generation Mechanisms. *ESS Open Archive*. https://doi.org/10.22541/essoar.173272456.69006273/v1  
+- **Farmani, M. A.**, Tavakoly, A. A., Behrangi, A., *et al.* (2024). Improving Streamflow Predictions in the Arid Southwestern United States Through Understanding of Baseflow Generation Mechanisms. *ESS Open Archive*. https://doi.org/10.22541/essoar.173272456.69006273/v1
+
+**Open archives / working papers**
 - Niu, G.-Y., Fang, Y., Alves Meira Neto, A., Guo, B., Zhang, X.-Y., **Farmani, M.**, Behrangi, A., & Zeng, X. (2024). Representing Preferential Flow through Variably-Saturated Soils with Surface Ponding in a Large-Scale Land Surface Model over the Conterminous US. *ESS Open Archive*. https://doi.org/10.22541/essoar.172286649.90332939/v1  
-- Yousefi Sohi, H., **Farmani, M. A.**, & Behrangi, A. (2024). How do IMERG V07, IMERG V06, and ERA5 Precipitation Products Perform Over Snow-ice-free and Snow-ice-covered Surfaces at a Range of Near-Surface Temperatures? *ESS Open Archive*. https://doi.org/10.22541/essoar.172675931.16404474/v1  
-- Jawad, M., Behrangi, A., **Farmani, M.**, Qiu, Y., Yousefi, H., Gupta, A., & Niu, G.-Y. Improved Evapotranspiration Estimation Using the Penman–Monteith Equation with a Deep Learning (DNN) Model Over the Dry Southwestern US: Comparison with ECOSTRESS, MODIS, and OpenET. *SSRN*. https://ssrn.com/abstract=5026281 • https://doi.org/10.2139/ssrn.5026281
+
+
 
 ---
 
