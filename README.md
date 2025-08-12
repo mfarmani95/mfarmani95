@@ -99,4 +99,4 @@ I like bridging theory and practice—building tools that help answer real water
 
 
 
-> Full portfolio, publications, talks, and CV: **https://mfarmani95.github.io**
+> Full portfolio, publications, talks, and CV: <a href="https://mfarmani95.github.io/Mfarmani/index.html"><img alt="Website" src="https://img.shields.io/badge/Website-Home-2ea44f?logo=firefox-browser&logoColor=white"></a>
