@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mohammad Farmani</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<div class="page">
+
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    <img class="avatar" src="assets/profile.jpg" alt="Mohammad Farmani headshot" />
+    <h1 class="name">Mohammad Farmani</h1>
+    <p class="tagline">PhD Student · Hydrology<br/>University of Arizona</p>
+    <nav class="nav">
+      <a href="#about">About</a>
+      <a href="#news">News</a>
+      <a href="#pubs">Publications</a>
+      <a href="#projects">Projects</a>
+      <a href="#cv">CV</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <div class="links">
+      <a href="https://mfarmani95.github.io/Mfarmani/" target="_blank" rel="noreferrer">Project Pages</a>
+      <a href="https://orcid.org/0000-0002-0232-5082" target="_blank" rel="noreferrer">ORCID</a>
+      <a href="https://github.com/mfarmani95" target="_blank" rel="noreferrer">GitHub</a>
+    </div>
+  </aside>
+
+  <!-- Main content -->
+  <main class="content">
+
+    <section id="about" class="card">
+      <h2>About</h2>
+      <p>
+        I study land–atmosphere processes and hydrologic modeling with a focus on
+        <strong>Noah-MP / RAPID</strong>, evaluating precipitation forcings
+        (<em>AORC, NLDAS2, CONUS404, IMERG</em>) against gauges, and building
+        <strong>differentiable PyTorch</strong> components for soil moisture and water table dynamics.
+      </p>
+      <p>
+        Tooling: Python (xarray, rioxarray, geopandas, pandas, PyTorch), Fortran, HPC.
+      </p>
+    </section>
+
+    <section id="news" class="card">
+      <h2>News</h2>
+      <ul class="list">
+        <li><span class="when">Aug 2025</span> Awarded AHS Academic Scholarship (2025 cohort).</li>
+        <li><span class="when">Jul 2025</span> CAP Award for Water Research — 2nd place.</li>
+        <li><span class="when">2025</span> Added IMERG to SRP forcing comparisons; updated SWE/LAI analyses.</li>
+      </ul>
+    </section>
+
+    <section id="pubs" class="card">
+      <h2>Publications & Selected Writing</h2>
+      <p>Add items as they publish (title — venue, year). Examples:</p>
+      <ul class="list pubs">
+        <li><span class="title">Diverging impacts of snow fractions and soil drainage on water balance</span> — WRR (review), 2025. <a href="#" target="_blank" rel="noreferrer">link</a></li>
+        <!-- <li><span class="title">Your paper title</span> — Journal, 202X. <a href="https://doi.org/..." target="_blank" rel="noreferrer">doi</a></li> -->
+      </ul>
+    </section>
+
+    <section id="projects" class="card">
+      <h2>Projects</h2>
+      <div class="grid">
+        <a class="tile" href="https://github.com/mfarmani95/Noah_MP" target="_blank" rel="noreferrer">
+          <h3>Noah_MP</h3>
+          <p>Land surface model experiments for Salt–Verde basins; Fortran + HPC notes.</p>
+          <div class="tags">Fortran · HPC · Hydrology</div>
+        </a>
+        <a class="tile" href="https://github.com/mfarmani95/test" target="_blank" rel="noreferrer">
+          <h3>Soil Solver (PyTorch)</h3>
+          <p>Differentiable 1D soil moisture & water table components; CAMELS-ready.</p>
+          <div class="tags">PyTorch · Differentiable · CAMELS</div>
+        </a>
+        <a class="tile" href="https://mfarmani95.github.io/Mfarmani/" target="_blank" rel="noreferrer">
+          <h3>Project Pages</h3>
+          <p>Figures & notes for SWE/LAI and forcing comparisons (lives under /Mfarmani/).</p>
+          <div class="tags">xarray · rioxarray · geopandas</div>
+        </a>
+        <a class="tile" href="https://github.com/mfarmani95/neuralhydrology" target="_blank" rel="noreferrer">
+          <h3>neuralhydrology (fork)</h3>
+          <p>Configs & custom losses (KGE/RFL) for CAMELS streamflow experiments.</p>
+          <div class="tags">LSTM · Streamflow · PyTorch</div>
+        </a>
+      </div>
+    </section>
+
+    <section id="cv" class="card">
+      <h2>CV</h2>
+      <p>Download: <a href="assets/CV_Mohammad_Farmani.pdf" target="_blank" rel="noreferrer">CV_Mohammad_Farmani.pdf</a></p>
+    </section>
+
+    <section id="contact" class="card">
+      <h2>Contact</h2>
+      <p>Best way to reach me is via my <a href="https://mfarmani95.github.io/Mfarmani/">project site</a> or by opening an issue on any repo.</p>
+    </section>
+
+    <footer class="footer">© <span id="y"></span> Mohammad Farmani</footer>
+  </main>
+</div>
+<script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+</body>
+</html>
+
