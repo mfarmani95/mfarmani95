@@ -11,27 +11,36 @@
 </p>
 
 ### About
-I study land-surface hydrology and ecohydrology with a focus on soil–vegetation–atmosphere interactions, baseflow generation, and precipitation-forcing impacts on snow and streamflow. My work spans Noah-MP & RAPID modeling, SWE/LAI evaluation, and gauge-sampled vs. gridded precipitation analysis (AORC, NLDAS2, CONUS404, IMERG).
+I’m a third-year Ph.D. candidate in Hydrology & Atmospheric Sciences (minor in Data Science) at the University of Arizona. I integrate **physical hydrology** with **machine learning** and **differentiable modeling** to improve predictions of soil moisture, evapotranspiration, recharge, and streamflow.
 
-### Research interests
-- Soil moisture memory & key soil hydrological processes  
-- Baseflow generation mechanisms in arid/semi-arid basins  
-- Precipitation product evaluation and downscaling  
-- Physics–ML hybrid modeling for hydrology
+**Recent highlights (2025):**  
+- **Soil moisture memory:** first-author study identifying key soil processes controlling memory (HESS 2025).  
+- **Precipitation intensity → recharge/TWS:** coauthored **GRL 2025** showing strong impacts in Arizona drylands.  
+- **Product evaluation across temperatures:** coauthored **J. Hydrometeorology 2025** comparing IMERG V07/V06 vs. ERA5.  
+- **ET with physics-guided ML:** coauthored **J. Hydrology 2025** (DNN-enhanced Penman–Monteith).
+
+**Focus areas**
+- **Hydrologic & land-surface modeling:** Noah-MP and RAPID (infiltration, runoff, baseflow, soil moisture dynamics).  
+- **Differentiable hydrology & ML:** PyTorch implementations for GPU-accelerated parameter optimization and hybrid physics–ML.  
+- **Extremes & recharge:** linking precipitation intensity to groundwater recharge and terrestrial water storage.  
+- **Data systems & reproducible pipelines:** Python/xarray/geopandas, HPC, and SQL for scalable, transparent workflows.  
+- **Urban/flood applications:** SWMM/HEC tools for stormwater and resilience analyses.
+
+I like bridging theory and practice—building tools that help answer real water-resources questions, mentoring peers, and contributing service/leadership (e.g., El Día Student Symposium).
 
 ---
 
 ## Research Experience
 
 **Graduate Research Assistant, University of Arizona — Tucson, AZ, USA**  
-- Land surface modeling using Noah-MP  
-- Improving streamflow predictions in the arid Southwestern US  
-- Parameter optimization of Noah-MP via differentiable hydrology  
-- Identifying key soil hydrological processes controlling soil moisture memory  
-- Understanding the role of extreme precipitation events in groundwater recharge  
-- Improving physical process representation within Noah-MP  
-- Evaluation of IMERG V07, IMERG V06, and ERA5 precipitation products  
-- Implemented river-discharge routing simulations using the RAPID model  
+- **Lead author (HESS 2025):** identified **key soil hydrological processes** governing soil moisture memory; designed experiments and analysis with Noah-MP.  
+- **Coauthor (GRL 2025):** quantified how **precipitation intensity** drives **groundwater recharge** and **TWS change** in Arizona drylands.  
+- **Coauthor (Journal of Hydrometeorology 2025):** evaluated **IMERG V07/V06 vs. ERA5** across **near-surface temperature regimes**.  
+- **Coauthor (Journal of Hydrology 2025):** developed a **DNN-enhanced Penman–Monteith** framework for improved **evapotranspiration** estimation.
+- Advanced **Noah-MP** process representation and **parameter optimization** using differentiable hydrology (PyTorch; GPU).  
+- Implemented **river-discharge routing** with **RAPID**; analyzed baseflow generation and streamflow prediction skill.  
+- Built **gauge-sampled vs. gridded** precipitation comparison workflows (AORC, NLDAS2, CONUS404, IMERG) with xarray/rioxarray.  
+- Developed **reproducible pipelines** on HPC for large-scale NetCDF processing, calibration, and evaluation.
 - Conceptual modeling of streamflow generation processes for the Leaf River basin
 
 **Graduate Research Assistant, Tarbiat Modares University — Tehran, Iran**  
