@@ -3,10 +3,12 @@
 <p align="center"><b>Ph.D. Student, Hydrology & Atmospheric Sciences (University of Arizona)</b></p>
 
 <p align="center">
-  <a href="https://mfarmani95.github.io/Mfarmani/index.html">Website</a> •
-  <a href="mailto:mohammadalifarmani95@gmail.com">Email</a>
+  <a href="https://mfarmani95.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-Home-2ea44f?logo=firefox-browser&logoColor=white"></a>
+  <a href="mailto:mfarmani@email.arizona.edu"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail&logoColor=white"></a>
+  <a href="https://scholar.google.com/citations?user=CmjfHnIAAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=google-scholar&logoColor=white"></a>
+  <a href="https://www.researchgate.net/profile/Mohammad-Farmani-6/research"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mohammad-farmani-841b2b180/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
 </p>
-
 ### About
 I study land-surface hydrology and ecohydrology with a focus on soil–vegetation–atmosphere interactions, baseflow generation, and precipitation-forcing impacts on snow and streamflow. My work spans Noah-MP & RAPID modeling, SWE/LAI evaluation, and gauge-sampled vs. gridded precipitation analysis (AORC, NLDAS2, CONUS404, IMERG).
 
@@ -50,6 +52,14 @@ I study land-surface hydrology and ecohydrology with a focus on soil–vegetatio
 - Agnihotri, J., Behrangi, A., Tavakoly, A., Geheran, M., **Farmani, M. A.**, & Niu, G.-Y. (2023). Higher frozen soil permeability represented in a hydrological model improves spring streamflow prediction from river basin to continental scales. **Water Resources Research**, 59(4), e2022WR033075.
 
 **Open archives / working papers**
+- **The Strong Impact of Precipitation Intensity on Groundwater Recharge and Terrestrial Water Storage Change in Arizona, a Typical Dryland.**  
+  Y. Qiu, J. S. Famiglietti, A. Behrangi, **M. A. Farmani**, H. Yousefi Sohi, A. Gupta, *et al.* **Geophysical Research Letters**, 52(14), e2025GL114747 (2025). https://doi.org/10.1029/2025GL114747  
+- **How Do IMERG V07, IMERG V06, and ERA5 Precipitation Products Perform over Snow–Ice-Free and Snow–Ice-Covered Surfaces at a Range of Near-Surface Temperatures?**  
+  H. Yousefi Sohi, **M. A. Farmani**, A. Behrangi. **Journal of Hydrometeorology**, 26(7), 837–855 (2025). https://doi.org/10.1175/JHM-D-24-0110.1  
+- **Improved Evapotranspiration Estimation Using the Penman–Monteith Equation with a Deep Learning (DNN) Model Over the Dry Southwestern US: Comparison with ECOSTRESS, MODIS, and OpenET.**  
+  M. Jawad, A. Behrangi, **M. A. Farmani**, Y. Qiu, H. Y. Sohi, A. Gupta, G.-Y. Niu. **Journal of Hydrology**, 133460 (2025). *(Article in press)*  
+- **Do land models miss key soil hydrological processes controlling soil moisture memory?**  
+  **M. A. Farmani**, A. Behrangi, A. Gupta, A. Tavakoly, M. Geheran, G.-Y. Niu. **Hydrology and Earth System Sciences**, 29, 547–566 (2025). https://doi.org/10.5194/hess-29-547-2025
 - **Farmani, M. A.**, Tavakoly, A. A., Behrangi, A., *et al.* (2024). Improving Streamflow Predictions in the Arid Southwestern United States Through Understanding of Baseflow Generation Mechanisms. *ESS Open Archive*. https://doi.org/10.22541/essoar.173272456.69006273/v1  
 - Niu, G.-Y., Fang, Y., Alves Meira Neto, A., Guo, B., Zhang, X.-Y., **Farmani, M.**, Behrangi, A., & Zeng, X. (2024). Representing Preferential Flow through Variably-Saturated Soils with Surface Ponding in a Large-Scale Land Surface Model over the Conterminous US. *ESS Open Archive*. https://doi.org/10.22541/essoar.172286649.90332939/v1  
 - Yousefi Sohi, H., **Farmani, M. A.**, & Behrangi, A. (2024). How do IMERG V07, IMERG V06, and ERA5 Precipitation Products Perform Over Snow-ice-free and Snow-ice-covered Surfaces at a Range of Near-Surface Temperatures? *ESS Open Archive*. https://doi.org/10.22541/essoar.172675931.16404474/v1  
