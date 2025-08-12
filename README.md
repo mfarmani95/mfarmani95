@@ -3,8 +3,8 @@
 <p align="center"><b>Ph.D. Student, Hydrology & Atmospheric Sciences (University of Arizona)</b></p>
 
 <p align="center">
-  <a href="https://mfarmani95.github.io">Website</a> •
-  <a href="mailto:mfarmani@email.arizona.edu">Email</a>
+  <a href="https://mfarmani95.github.io/Mfarmani/index.html">Website</a> •
+  <a href="mailto:mohammadalifarmani95@gmail.com">Email</a>
 </p>
 
 ### About
