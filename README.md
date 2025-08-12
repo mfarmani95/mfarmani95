@@ -60,8 +60,6 @@ I like bridging theory and practice—building tools that help answer real water
 **Peer-reviewed**
 - Farmani, M. A., Behrangi, A., Gupta, A., Tavakoly, A., Geheran, M., & Niu, G.-Y. (2025). *Do land models miss key soil hydrological processes controlling soil moisture memory?* **Hydrology and Earth System Sciences**, 29, 547–566. https://doi.org/10.5194/hess-29-547-2025  
 - Agnihotri, J., Behrangi, A., Tavakoly, A., Geheran, M., **Farmani, M. A.**, & Niu, G.-Y. (2023). Higher frozen soil permeability represented in a hydrological model improves spring streamflow prediction from river basin to continental scales. **Water Resources Research**, 59(4), e2022WR033075.
-
-**Open archives / working papers**
 - **The Strong Impact of Precipitation Intensity on Groundwater Recharge and Terrestrial Water Storage Change in Arizona, a Typical Dryland.**  
   Y. Qiu, J. S. Famiglietti, A. Behrangi, **M. A. Farmani**, H. Yousefi Sohi, A. Gupta, *et al.* **Geophysical Research Letters**, 52(14), e2025GL114747 (2025). https://doi.org/10.1029/2025GL114747  
 - **How Do IMERG V07, IMERG V06, and ERA5 Precipitation Products Perform over Snow–Ice-Free and Snow–Ice-Covered Surfaces at a Range of Near-Surface Temperatures?**  
