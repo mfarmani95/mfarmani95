@@ -9,6 +9,7 @@
   <a href="https://www.researchgate.net/profile/Mohammad-Farmani-6/research"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mohammad-farmani-841b2b180/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
 </p>
+
 ### About
 I study land-surface hydrology and ecohydrology with a focus on soil–vegetation–atmosphere interactions, baseflow generation, and precipitation-forcing impacts on snow and streamflow. My work spans Noah-MP & RAPID modeling, SWE/LAI evaluation, and gauge-sampled vs. gridded precipitation analysis (AORC, NLDAS2, CONUS404, IMERG).
 
