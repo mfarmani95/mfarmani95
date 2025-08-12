@@ -3,8 +3,8 @@
 <p align="center"><b>Ph.D. Student, Hydrology & Atmospheric Sciences (University of Arizona)</b></p>
 
 <p align="center">
-  <a href="https://mfarmani95.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-Home-2ea44f?logo=firefox-browser&logoColor=white"></a>
-  <a href="mailto:mfarmani@email.arizona.edu"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail&logoColor=white"></a>
+  <a href="https://mfarmani95.github.io/Mfarmani/index.html"><img alt="Website" src="https://img.shields.io/badge/Website-Home-2ea44f?logo=firefox-browser&logoColor=white"></a>
+  <a href="mailto:mohammadalifarmani95@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail&logoColor=white"></a>
   <a href="https://scholar.google.com/citations?user=CmjfHnIAAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=google-scholar&logoColor=white"></a>
   <a href="https://www.researchgate.net/profile/Mohammad-Farmani-6/research"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mohammad-farmani-841b2b180/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
