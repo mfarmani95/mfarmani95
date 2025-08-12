@@ -95,7 +95,7 @@ I like bridging theory and practice—building tools that help answer real water
 - 🎖️ **John W. and Margaret Harshbarger Fellowship** (2024)  
 - 🎖️ **Roots for Resilience Research Fellowship**, Data Science Institute, University of Arizona (Fall 2023)  
 - 🎖️ **Best Oral Presentation**, El Día Conference, University of Arizona (March 2023)  
-- 🎖️ **Hydrologist Scholarship**, U.S. Army Corps of Engineers – ERDC CHL (May 2023 – Present)  
+- 🎖️ **Hydrologist Scholarship**, U.S. Army Corps of Engineers – ERDC CHL (May 2023 – May 2025)  
 
 
 
