@@ -68,7 +68,7 @@ I like bridging theory and practice—building tools that help answer real water
 - **Do land models miss key soil hydrological processes controlling soil moisture memory?**  
   **M. A. Farmani**, A. Behrangi, A. Gupta, A. Tavakoly, M. Geheran, G.-Y. Niu. **Hydrology and Earth System Sciences**, 29, 547–566 (2025). https://doi.org/10.5194/hess-29-547-2025
 - Agnihotri, J., Behrangi, A., Tavakoly, A., Geheran, M., **Farmani, M. A.**, & Niu, G.-Y. (2023). Higher frozen soil permeability represented in a hydrological model improves spring streamflow prediction from river basin to continental scales. **Water Resources Research**, 59(4), e2022WR033075.
-- 
+  
 **Open archives / working papers**
 - **Farmani, M. A.**, Tavakoly, A. A., Behrangi, A., *et al.* (2024). Improving Streamflow Predictions in the Arid Southwestern United States Through Understanding of Baseflow Generation Mechanisms. *ESS Open Archive*. https://doi.org/10.22541/essoar.173272456.69006273/v1
 - Niu, G.-Y., Fang, Y., Alves Meira Neto, A., Guo, B., Zhang, X.-Y., **Farmani, M.**, Behrangi, A., & Zeng, X. (2024). Representing Preferential Flow through Variably-Saturated Soils with Surface Ponding in a Large-Scale Land Surface Model over the Conterminous US. *ESS Open Archive*. https://doi.org/10.22541/essoar.172286649.90332939/v1  
