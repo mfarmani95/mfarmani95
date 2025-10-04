@@ -14,6 +14,7 @@
 I’m a third-year Ph.D. candidate in Hydrology & Atmospheric Sciences (minor in Data Science) at the University of Arizona. I integrate **physical hydrology** with **machine learning** and **differentiable modeling** to improve predictions of soil moisture, evapotranspiration, recharge, and streamflow.
 
 **Recent highlights (2025):**  
+- **Streamflow Prediction:** first-author study improving streamflow prdiction through enhancing baseflow estimation **(WRR 2025)**.  
 - **Soil moisture memory:** first-author study identifying key soil processes controlling memory **(HESS 2025)**.  
 - **Precipitation intensity → recharge/TWS:** coauthored **GRL 2025** showing strong impacts in Arizona drylands.  
 - **Product evaluation across temperatures:** coauthored **J. Hydrometeorology 2025** comparing IMERG V07/V06 vs. ERA5.  
