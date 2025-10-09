@@ -11,7 +11,7 @@
 </p>
 
 ### About
-I’m a third-year Ph.D. candidate in Hydrology & Atmospheric Sciences (minor in Data Science) at the University of Arizona. I integrate **physical hydrology** with **machine learning** and **differentiable modeling** to improve predictions of soil moisture, evapotranspiration, recharge, and streamflow.
+I’m a Ph.D. candidate in Hydrology & Atmospheric Sciences (minor in Data Science) at the University of Arizona. I integrate **physical hydrology** with **machine learning** and **differentiable modeling** to improve predictions of soil moisture, evapotranspiration, recharge, and streamflow.
 
 **Recent highlights (2025):**  
 - **Streamflow Prediction:** first-author study improving streamflow prdiction through enhancing baseflow estimation **(WRR 2025)**.  
