@@ -1,5 +1,5 @@
 <!-- Profile README for github.com/mfarmani95 -->
-<h1 align="center">Mohammad A. Farmani</h1>
+<h1 align="center">Moe Farmani</h1>
 <p align="center"><b>Ph.D. Student, Hydrology & Atmospheric Sciences (University of Arizona)</b></p>
 
 <p align="center">
