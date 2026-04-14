@@ -10,8 +10,18 @@
   <a href="https://www.linkedin.com/in/mohammad-a-farmani-841b2b180/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
 </p>
 
-### About
-I’m a Ph.D. candidate in Hydrology & Atmospheric Sciences (minor in Data Science) at the University of Arizona. I integrate **physical hydrology** with **machine learning** and **differentiable modeling** to improve predictions of soil moisture, evapotranspiration, recharge, and streamflow.
+<section id="about" class="card">
+  <h2>About</h2>
+  <p>
+    I am a Ph.D. student in Hydrology and Atmospheric Sciences at the University of Arizona. My research focuses on land–atmosphere interactions, hydrologic modeling, and physics-guided machine learning for water resources applications.
+  </p>
+  <p>
+    I work on land surface and hydrologic models including <strong>Noah-MP</strong> and <strong>RAPID</strong>, with interests in precipitation forcing evaluation, snow and soil moisture processes, groundwater interactions, and differentiable modeling in <strong>PyTorch</strong>.
+  </p>
+  <p>
+    My broader goal is to develop physically interpretable and computationally efficient models that improve prediction of streamflow, snow, evapotranspiration, and subsurface water dynamics.
+  </p>
+</section>
 
 **Recent highlights (2025):**  
 - **Streamflow Prediction:** first-author study improving streamflow prdiction through enhancing baseflow estimation **(WRR 2025)**.  
