@@ -79,24 +79,38 @@ A fully differentiable, GPU-accelerated implementation of Noah-MP coupled with G
 
 ---
 
-### 🟢 **Streamflow-DL: Deep Learning for Streamflow Prediction**
+### 🟢 **Streamflow Prediction with Sequence Models**
 *Status: Active & Available*
 
-Deep learning approaches for streamflow forecasting using sequence models (LSTM, Transformers) with physics-guided training.
+A modular deep learning framework for streamflow prediction using sequence models, developed for hydrologic forecasting experiments and comparative model analysis.
 
 **Key Capabilities:**
-- 📊 **Benchmark Performance:** NSE = 0.81 on CAMELS (531 basins)
-- 🧠 **Models:** LSTM, Transformer, hybrid physics-ML architectures
-- 📚 **Datasets:** CAMELS, USGS, GRDC
-- 🎯 **Applications:** 1–30 day forecasting, ungauged basins, extremes
-- ⚙️ **Production-ready:** Configurable training pipelines, evaluation metrics
+- 🧠 **Models:** LSTM and Transformer architectures for basin-scale streamflow prediction
+- 📦 **Modular framework:** organized pipeline for data access, preprocessing, training, evaluation, visualization, and experiment management
+- ⚙️ **Experiment workflows:** configurable YAML-based runs, checkpointing, early stopping, sweep analysis, and model comparison
+- 📊 **Evaluation tools:** basin-wise metrics, hydrographs, parity plots, flow-regime diagnostics, seasonal skill, and report generation
+- 🌍 **Dataset support:** MiniCAMELS-based workflows with split-aware analysis and reproducible preprocessing
 
-**Tech Stack:** PyTorch, Transformers, Transfer Learning, Physical Loss Functions
+**Tech Stack:** PyTorch, YAML Configs, Sequence Modeling, Hydrologic Evaluation, Scientific Python
 
-**[Repository]([https://github.com/mfarmani95/streamflow-dl](https://github.com/mfarmani95/Streamflow_Prediction/tree/main)) | [Documentation]()**
+**[Repository](https://github.com/mfarmani95/Streamflow_Prediction/tree/main)**
+---
+### 🟡 **Process-Aware AI for Rainfall–Runoff Modeling**
+*Status: Active · Private repository*
+
+Research code accompanying the study **“Process-Aware AI for Rainfall–Runoff Modeling: A Mass-Conserving Neural Framework with Hydrological Process Constraints”**.
+
+**Key Capabilities:**
+- 🌧️ **Physics-aware rainfall–runoff modeling:** mass-conserving neural framework with explicit hydrological process constraints
+- 🧠 **Hybrid AI design:** integrates machine learning flexibility with physically interpretable storage–flux relationships
+- 🔬 **Research focus:** process representation, interpretability, and improved hydrologic prediction across catchments
+- 📄 **Associated preprint:** arXiv:2603.25093
+
+**Tech Stack:** PyTorch, Physics-Guided ML, Hydrologic Process Modeling, Scientific Machine Learning
+
+*Repository is currently private.*
 
 ---
-
 ### 🟡 **Coffee Suitability & Deforestation Analysis**
 *Status: Complete & Production-Ready*
 
@@ -119,23 +133,7 @@ A YAML-driven geospatial analysis pipeline for rapid assessment of coffee suitab
 
 **Tech Stack:** Python, Rasterio, Xarray, NetCDF, YAML, Google Earth Engine, NASA Earthdata API
 
-**[Repository]([[https://github.com/mfarmani95/streamflow-dl](https://github.com/mfarmani95/Streamflow_Prediction/tree/main](https://github.com/mfarmani95/coffee_analysis))) | [Documentation]()**
+**[Repository]([[https://github.com/mfarmani95/streamflow-dl](https://github.com/mfarmani95/Streamflow_Prediction/tree/main](https://github.com/mfarmani95/coffee_analysis)))**
 ---
 
-## 📚 Research Highlights
 
-### **2025 Publications**
-
-| Publication | Topic | Journal | Status |
-|---|---|---|---|
-| **First-author** | Streamflow Prediction via Enhanced Baseflow Estimation | *Water Resources Research* | ✅ Published |
-| **First-author** | Soil Moisture Memory & Process Controls | *Hydrology and Earth System Sciences* | ✅ Published |
-| **Co-authored** | Precipitation Intensity → Recharge/TWS in Arizona Drylands | *Geophysical Research Letters* | ✅ Published |
-| **Co-authored** | IMERG V07/V06 vs. ERA5 Product Evaluation | *J. Hydrometeorology* | ✅ Published |
-| **Co-authored** | Physics-Guided ML for Evapotranspiration | *J. Hydrology* | ✅ Published |
-
-**➜ Full publication list:** [Google Scholar Profile](https://scholar.google.com/citations?user=CmjfHnIAAAAJ&hl=en)
-
----
-
-## 💻 Technical Expertise
