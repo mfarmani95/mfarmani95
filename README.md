@@ -93,25 +93,33 @@ Deep learning approaches for streamflow forecasting using sequence models (LSTM,
 
 **Tech Stack:** PyTorch, Transformers, Transfer Learning, Physical Loss Functions
 
-**[Repository](https://github.com/mfarmani95/streamflow-dl) | [Documentation]()**
+**[Repository]([https://github.com/mfarmani95/streamflow-dl](https://github.com/mfarmani95/Streamflow_Prediction/tree/main)) | [Documentation]()**
 
 ---
 
-### 🟡 **Coffee Data Analysis: EDA & Visualization Portfolio**
-*Status: Complete & Reproducible*
+### 🟡 **Coffee Suitability & Deforestation Analysis**
+*Status: Complete & Production-Ready*
 
-Exploratory data analysis and interactive visualizations of coffee quality datasets. Demonstrates data science best practices including cleaning, feature engineering, statistical inference, and storytelling with data.
+A YAML-driven geospatial analysis pipeline for rapid assessment of coffee suitability and forest loss over user-defined regions of interest. Integrates multi-source satellite data with automated preprocessing and analysis workflows.
 
-**Highlights:**
-- 🔍 Complete EDA workflow on 1,300+ coffee samples
-- 📈 Statistical analysis: distributions, correlations, hypothesis testing
-- 📊 Interactive Plotly visualizations with business insights
-- 🎓 Reproducible Jupyter notebooks showcasing data science skills
+**Pipeline Capabilities:**
+- 🌍 **Multi-source Data Integration:** CHIRPS rainfall, MODIS NDVI, SMAP soil moisture, Hansen forest loss
+- 🔄 **Automated Preprocessing:** Harmonize disparate datasets to shared monthly grid (NetCDF)
+- ☕ **Suitability Analysis:** Apply science-based thresholds for NDVI, rainfall, and soil moisture
+- 📍 **Forest-Loss Detection:** Quantify overlap between suitable coffee regions and deforestation signals
+- 📊 **Rich Outputs:** Time-series plots, spatial maps, CSV tables, NetCDF datasets, summary reports
+- ⚙️ **Configuration-Driven:** YAML configs for reproducible, parameterizable workflows
 
-**Tech Stack:** Pandas, NumPy, Matplotlib, Plotly, Scikit-learn, SciPy
+**Key Features:**
+- 🎯 Offline synthetic demo (no credentials required for first run)
+- 🛰️ Real-data workflows with MODIS/SMAP via NASA Earthaccess
+- 🔍 Data validation and quality checks for HDF5 corruption
+- 📈 Extensible pipeline supporting custom AOI and time windows
+- 📦 Standardized NetCDF intermediate format for reproducibility
 
-**[Repository](https://github.com/mfarmani95/coffee-analysis)**
+**Tech Stack:** Python, Rasterio, Xarray, NetCDF, YAML, Google Earth Engine, NASA Earthdata API
 
+**[Repository]([[https://github.com/mfarmani95/streamflow-dl](https://github.com/mfarmani95/Streamflow_Prediction/tree/main](https://github.com/mfarmani95/coffee_analysis))) | [Documentation]()**
 ---
 
 ## 📚 Research Highlights
