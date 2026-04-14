@@ -91,9 +91,8 @@ A modular deep learning framework for streamflow prediction using sequence model
 - 📊 **Evaluation tools:** basin-wise metrics, hydrographs, parity plots, flow-regime diagnostics, seasonal skill, and report generation
 - 🌍 **Dataset support:** MiniCAMELS-based workflows with split-aware analysis and reproducible preprocessing
 
-**Tech Stack:** PyTorch, YAML Configs, Sequence Modeling, Hydrologic Evaluation, Scientific Python
+**Tech Stack:** PyTorch, YAML Configs, Sequence Modeling, Hydrologic Evaluation, Scientific Python**
 
-**[Repository](https://github.com/mfarmani95/Streamflow_Prediction/tree/main)**
 ---
 ### 🟡 **Process-Aware AI for Rainfall–Runoff Modeling**
 *Status: Active · Private repository*
@@ -131,9 +130,8 @@ A YAML-driven geospatial analysis pipeline for rapid assessment of coffee suitab
 - 📈 Extensible pipeline supporting custom AOI and time windows
 - 📦 Standardized NetCDF intermediate format for reproducibility
 
-**Tech Stack:** Python, Rasterio, Xarray, NetCDF, YAML, Google Earth Engine, NASA Earthdata API
+**Tech Stack:** Python, Rasterio, Xarray, NetCDF, YAML, Google Earth Engine, NASA Earthdata API**
 
-**[Repository]([[https://github.com/mfarmani95/streamflow-dl](https://github.com/mfarmani95/Streamflow_Prediction/tree/main](https://github.com/mfarmani95/coffee_analysis)))**
 ---
-
+> Full portfolio, publications, talks, and CV: <a href="https://mfarmani95.github.io/Mfarmani/index.html"><img alt="Website" src="https://img.shields.io/badge/Website-Home-2ea44f?logo=firefox-browser&logoColor=white"></a>
 
