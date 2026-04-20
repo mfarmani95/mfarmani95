@@ -109,26 +109,6 @@ Research code accompanying the study **“Process-Aware AI for Rainfall–Runoff
 
 *Repository is currently private.*
 
----
-### 🟡 **Coffee Suitability & Deforestation Analysis**
-*Status: Complete & Production-Ready*
-
-A YAML-driven geospatial analysis pipeline for rapid assessment of coffee suitability and forest loss over user-defined regions of interest. Integrates multi-source satellite data with automated preprocessing and analysis workflows.
-
-**Pipeline Capabilities:**
-- 🌍 **Multi-source Data Integration:** CHIRPS rainfall, MODIS NDVI, SMAP soil moisture, Hansen forest loss
-- 🔄 **Automated Preprocessing:** Harmonize disparate datasets to shared monthly grid (NetCDF)
-- ☕ **Suitability Analysis:** Apply science-based thresholds for NDVI, rainfall, and soil moisture
-- 📍 **Forest-Loss Detection:** Quantify overlap between suitable coffee regions and deforestation signals
-- 📊 **Rich Outputs:** Time-series plots, spatial maps, CSV tables, NetCDF datasets, summary reports
-- ⚙️ **Configuration-Driven:** YAML configs for reproducible, parameterizable workflows
-
-**Key Features:**
-- 🎯 Offline synthetic demo (no credentials required for first run)
-- 🛰️ Real-data workflows with MODIS/SMAP via NASA Earthaccess
-- 🔍 Data validation and quality checks for HDF5 corruption
-- 📈 Extensible pipeline supporting custom AOI and time windows
-- 📦 Standardized NetCDF intermediate format for reproducibility
 
 **Tech Stack:** Python, Rasterio, Xarray, NetCDF, YAML, Google Earth Engine, NASA Earthdata API**
 
