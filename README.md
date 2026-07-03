@@ -12,3 +12,17 @@
 </p>
 
 
+
+---
+
+
+
+I am a Ph.D. candidate in Hydrology and Atmospheric Sciences at the University of Arizona, with research interests spanning physical hydrology, geospatial data science, and machine learning.
+
+My experience includes large-scale physical and hydrologic modeling with **Noah-MP** and **RAPID**, along with geospatial analysis and scientific computing using **xarray, GDAL, GIS, and Python**. I work extensively with large environmental datasets, hydrologic workflows, and reproducible model evaluation pipelines.
+
+I also develop **deep learning, hybrid physics–ML, and distributed GPU-based workflows** for hydrologic prediction. My current focus is on building **data pipelines** and modeling frameworks in **PyTorch**, including translating Fortran-based models such as **Noah-MP** into **GPU-enabled, deep-learning-ready** implementations that can be coupled with neural networks.
+
+I am particularly interested in building scalable and interpretable systems that unify physical models, geospatial data, and modern machine learning for water-resources applications.
+
+---
