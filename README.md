@@ -2,7 +2,7 @@
 <h1 align="center">Mohammad “Moe” Farmani</h1>
 <p align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Ph.D.+Candidate+in+Hydrology+%26+Atmospheric+Sciences;Physics-Based+Hydrology+%7C+Machine+Learning+%7C+Geospatial+Data+Science;Building+Scalable+AI+Systems+for+Water+Resources" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=800&color=2EA44F&center=true&vCenter=true&width=950&lines=Ph.D.+Candidate+in+Hydrology+%26+Atmospheric+Sciences;Physics-Based+Hydrology+%7C+Machine+Learning+%7C+Geospatial+Data+Science;Building+Scalable+AI+Systems+for+Water+Resources" alt="Typing SVG" />
 
 
 <p align="center"><i>University of Arizona | Integrating Physics, Machine Learning & Data Science</i></p>
