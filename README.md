@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=800&color=2EA44F&center=true&vCenter=true&width=950&lines=Ph.D.+Candidate+in+Hydrology+%26+Atmospheric+Sciences;Physics-Based+Hydrology+%7C+Machine+Learning+%7C+Geospatial+Data+Science;Building+Scalable+AI+Systems+for+Water+Resources" alt="Typing SVG" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=1000&lines=ML+Engineer+%7C+Hydrology+%26+Climate+Data+Science;Physics-Based+Modeling+%7C+Deep+Learning+%7C+Geospatial+AI;Building+Scalable+AI+Systems+for+Flood+and+Water+Resources" alt="Typing SVG" />
+</p>
+
 
 <p align="center"><i>University of Arizona | Integrating Physics, Machine Learning & Data Science</i></p>
 
