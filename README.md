@@ -2,7 +2,6 @@
 <h1 align="center">Mohammad “Moe” Farmani</h1>
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=800&color=2EA44F&center=true&vCenter=true&width=950&lines=Ph.D.+Candidate+in+Hydrology+%26+Atmospheric+Sciences;Physics-Based+Hydrology+%7C+Machine+Learning+%7C+Geospatial+Data+Science;Building+Scalable+AI+Systems+for+Water+Resources" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=1000&lines=ML+Engineer+%7C+Hydrology+%26+Climate+Data+Science;Physics-Based+Modeling+%7C+Deep+Learning+%7C+Geospatial+AI;Building+Scalable+AI+Systems+for+Flood+and+Water+Resources" alt="Typing SVG" />
@@ -40,5 +39,19 @@ I am especially interested in systems that combine:
 * Interpretable AI for water-resources applications
 
 ---
+<p align="center">
 
+  <img src="https://img.shields.io/badge/ML%20Engineering-PyTorch%20%7C%20GNNs%20%7C%20Deep%20Learning-orange?style=flat-square">
+
+  <img src="https://img.shields.io/badge/Hydrology-Noah--MP%20%7C%20RAPID%20%7C%20Streamflow-blue?style=flat-square">
+
+  <img src="https://img.shields.io/badge/Climate%20Data-xarray%20%7C%20NetCDF%20%7C%20Zarr-green?style=flat-square">
+
+  <img src="https://img.shields.io/badge/Geospatial-GDAL%20%7C%20GIS%20%7C%20GeoPandas-teal?style=flat-square">
+
+  <img src="https://img.shields.io/badge/Data%20Engineering-SQL%20%7C%20DuckDB%20%7C%20Parquet-purple?style=flat-square">
+
+  <img src="https://img.shields.io/badge/Computing-HPC%20%7C%20GPU%20%7C%20AWS-red?style=flat-square">
+
+</p>
 
